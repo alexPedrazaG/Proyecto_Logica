@@ -7,8 +7,6 @@ Este proyecto consiste en la resolución de 41 ejercicios utilizando el lenguaje
 
 🗂️ **Estructura del Proyecto**
 
-├── data # No contiene documentos
-
 ├── docs # EnunciadoDataProjectPython # Enunciado de los ejercicios
 
 ├── results # ProjectPython # Resultado de los ejercicios 
