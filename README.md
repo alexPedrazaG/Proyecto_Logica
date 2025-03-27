@@ -56,9 +56,9 @@ Los ejercicios abarcan diferentes categorías, tales como:
     
     5. Trabajo con Clases y Objetos.
 	    
-	  6. Interacción con el Usuario y Manejo de Datos en Tiempo Real.
+	6. Interacción con el Usuario y Manejo de Datos en Tiempo Real.
 
-	  7. Problemas de Lógica y Algoritmos.
+	7. Problemas de Lógica y Algoritmos.
     
 
 
